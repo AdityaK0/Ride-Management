@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/192443/camry-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+  "make": "Toyota",
+  "modified": "2025-01-26 13:42:39.485189",
+  "name": "VR-001",
+  "price_per_km": 10.0,
+  "type": "Sedan"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "https://www.ford.com/is/image/content/dam/brand_ford/en_us/brand/segment_landing/suvs/dm/25_FRD_EPD_F2A1615_Segment.tif?croppathe=1_4x3&wid=900",
+  "make": "Ford",
+  "modified": "2025-01-26 13:42:39.512386",
+  "name": "VR-002",
+  "price_per_km": 15.0,
+  "type": "SUV"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "https://imgd.aeplcdn.com/1056x594/n/tt7l79b_1795935.jpg?q=80",
+  "make": "Harley",
+  "modified": "2025-01-26 13:42:39.520444",
+  "name": "VR-003",
+  "price_per_km": 5.0,
+  "type": "Bike"
+ }
+]

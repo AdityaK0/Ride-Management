@@ -1,0 +1,35 @@
+[
+ {
+  "amount": 1500.0,
+  "docstatus": 0,
+  "doctype": "Ride Add On",
+  "modified": "2025-01-26 18:47:22.385147",
+  "name": "57ntvr3db6",
+  "parent": "VR-001-2025-0015",
+  "parentfield": "services",
+  "parenttype": "Ride Booking",
+  "service": "Tourist Guides"
+ },
+ {
+  "amount": 500.0,
+  "docstatus": 0,
+  "doctype": "Ride Add On",
+  "modified": "2025-01-26 18:47:22.442093",
+  "name": "1vlp3c6tq9",
+  "parent": "VR-002-2025-0016",
+  "parentfield": "services",
+  "parenttype": "Ride Booking",
+  "service": "Wi-Fi Access"
+ },
+ {
+  "amount": 1500.0,
+  "docstatus": 0,
+  "doctype": "Ride Add On",
+  "modified": "2025-01-26 18:47:22.477603",
+  "name": "ab6o6n453m",
+  "parent": "VR-003-2025-0017",
+  "parentfield": "services",
+  "parenttype": "Ride Booking",
+  "service": "Tourist Guides"
+ }
+]
