@@ -97,7 +97,7 @@ The script includes logic to:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/Ride-Management.git
+   git clone https://github.com/AdityaK0/Ride-Management.git
    ```
 2. Install the app on your site:
    ```bash
